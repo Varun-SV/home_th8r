@@ -46,7 +46,7 @@ python your_program.py -t vid -f video.mp4 -d 2,4
 
 
 ## License
-This program is open-source and released under the [MIT License](LICENSE.md).
+This program is open-source and released under the [MIT License](LICENSE).
 
 ## Author
 - [Varun S V](varunsv077@gmail.com)
